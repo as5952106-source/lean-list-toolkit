@@ -1,0 +1,12 @@
+name = "lean-work"
+version = "0.1.0"
+defaultTargets = ["LeanWork", "LeanWorkTests"]
+
+[leanOptions]
+warningAsError = true
+
+[[lean_lib]]
+name = "LeanWork"
+
+[[lean_lib]]
+name = "LeanWorkTests"
