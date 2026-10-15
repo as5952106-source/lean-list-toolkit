@@ -1,4 +1,8 @@
-# lean-work
+# lean-list-toolkit
+
+Adapted from [qritwik/lean-work](https://github.com/qritwik/lean-work).
+Original commit history is preserved. This repository is a downstream edition
+of the same project.
 
 A small, checked library of Lean proofs and executable list algorithms.
 
